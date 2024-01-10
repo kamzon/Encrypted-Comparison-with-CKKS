@@ -1,0 +1,15 @@
+result = 1.0002 ## 1.0001 > 1
+Running Time for the operation: 25.878485 
+sum is :  <built-in function sum>
+result = 1.0 ## 1 = 1
+Running Time for the operation: 25.929763 
+sum is :  <built-in function sum>
+result = 1.0 ## 0 = 0
+Running Time for the operation: 25.645925 
+sum is :  <built-in function sum>
+result = 7.385437309587998e+25 ## 10 > 1
+Running Time for the operation: 25.688996 
+sum is :  <built-in function sum>
+result = -6.926081798141856e+26 ## -10 < 0
+Running Time for the operation: 25.856268 
+Total Running Time: 128.999437 seconds
